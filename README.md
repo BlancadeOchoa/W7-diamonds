@@ -25,7 +25,7 @@ These files are stored in the folder called cleaning_data:
 
 
 # Algorithms used:
-I opted for the use of many algorithms in order to have a lot of possibilities of reducing the rmse value. This is why I have used 8 different ones on each of the different cleaned databases;
+I opted for the use of many algorithms in order to have a lot of possibilities of reducing the rmse value. This is why I have used 8 different ones on each of the different cleaned databases (that can be found in the folder model);
  **Linear regression, lasso, ridge, decision tree, random forest, k-nearest neighbour, bayesian ridge an elastic net**.
 
 
